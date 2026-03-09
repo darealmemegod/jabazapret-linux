@@ -1,0 +1,2 @@
+# jabazapret-linux
+jabazapret
