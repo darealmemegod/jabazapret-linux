@@ -1,0 +1,34 @@
+# Discord
+discord.com
+discord.gg
+discord.media
+discord.app
+discordapp.com
+discordapp.net
+discordstatus.com
+cdn.discordapp.com
+media.discordapp.net
+gateway.discord.gg
+# YouTube
+youtube.com
+youtu.be
+googlevideo.com
+ytimg.com
+yt3.ggpht.com
+# Google
+google.com
+googleapis.com
+gstatic.com
+# Telegram
+telegram.org
+t.me
+core.telegram.org
+# Instagram
+instagram.com
+cdninstagram.com
+fbcdn.net
+# Twitter/X
+twitter.com
+x.com
+twimg.com
+t.co

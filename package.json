@@ -1,0 +1,30 @@
+{
+  "name": "jabazapret-linux",
+  "version": "1.0.0",
+  "description": "DPI bypass tool for Linux - Discord, YouTube & more",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --linux"
+  },
+  "devDependencies": {
+    "electron": "^29.0.0",
+    "electron-builder": "^24.0.0"
+  },
+  "build": {
+    "appId": "com.jabazapret.linux",
+    "productName": "JabaZapret",
+    "linux": {
+      "target": ["AppImage", "deb"],
+      "category": "Network"
+    },
+    "files": [
+      "main.js",
+      "preload.js",
+      "renderer/**",
+      "scripts/**",
+      "lists/**",
+      "bin/**"
+    ]
+  }
+}

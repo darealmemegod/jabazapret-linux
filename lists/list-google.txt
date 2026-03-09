@@ -1,0 +1,7 @@
+google.com
+googleapis.com
+googlevideo.com
+gstatic.com
+youtube.com
+youtu.be
+ytimg.com
